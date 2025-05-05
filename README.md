@@ -70,7 +70,3 @@
 
 ---
 
-## 🧭 Visitor Count
-![Visitor Badge](https://visitcount.itsvg.in/api?id=muflih2024&icon=5&color=1)
-
-<!-- Created with ❤️ using GPRM: https://gprm.itsvg.in -->
