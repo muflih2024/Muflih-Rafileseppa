@@ -23,7 +23,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muflih2024 &limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+- 📌 [skanida-apps-mobile-muflih](https://github.com/muflih2024/skanida-apps-mobile-muflih)
+- 📌 [CRUD-manajemen-siswa](https://github.com/muflih2024/CRUD-manajemen-siswa)
+- 📌 [perpustakaan_muflih](https://github.com/muflih2024/perpustakaan_muflih)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muflih2024 &icon=5&color=1)](https://visitcount.itsvg.in)
